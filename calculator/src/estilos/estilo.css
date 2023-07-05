@@ -1,0 +1,9 @@
+:root {
+    --color-primary: #3a3c40;
+  }
+
+*{
+    box-sizing: border-box;
+    font-family: 'Poltawski Nowy', serif;
+    background-color: var(--color-primary);
+}
